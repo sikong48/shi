@@ -1,2 +1,3 @@
 lalalalala
-master 2.file line2
+<<<<<<< HEAD
+master 2.file line2    dev file2,line2
